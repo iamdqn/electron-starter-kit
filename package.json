@@ -1,0 +1,25 @@
+{
+  "name": "electron-starter-kit",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "serve": "gulp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iamdqn/electron-starter-kit.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iamdqn/electron-starter-kit/issues"
+  },
+  "homepage": "https://github.com/iamdqn/electron-starter-kit#readme",
+  "dependencies": {
+    "electron-connect": "^0.3.5",
+    "electron-prebuilt": "^0.36.5",
+    "gulp": "^3.9.0"
+  }
+}
